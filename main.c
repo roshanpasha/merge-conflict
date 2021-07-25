@@ -25,7 +25,4 @@ Initial Security()
 
 
 
-<<<<<<< HEAD
-=======
-}
->>>>>>> feature2
+
